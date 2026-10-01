@@ -48,3 +48,6 @@ paper.io-2
 pop-the-lock
 
 zombie-rush
+
+EaglerCraftX
+
